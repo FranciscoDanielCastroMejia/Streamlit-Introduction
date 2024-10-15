@@ -11,6 +11,7 @@ st.set_page_config(page_title='Second APP', page_icon=logo, layout='wide',
 
 
 def main():
+    
 
 
     st.title('My Second APP')

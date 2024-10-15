@@ -10,6 +10,7 @@ df3 = df2.apply(pd.to_numeric, errors='coerce')
 def main():
     st.title("My First app")
     st.divider()#add a divider line
+    
     #_______________Styles of text ____________________
     st.markdown('### Styles of text')
 
